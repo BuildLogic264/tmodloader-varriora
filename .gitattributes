@@ -1,0 +1,10 @@
+# Default behavior
+*.gif binary
+*.map linguist-generated
+public/index.html linguist-vendored
+
+*.go linguist-detectable
+*.svg text
+
+*.jpeg binary
+# eof a6972fb2
